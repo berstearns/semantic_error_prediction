@@ -1,0 +1,12 @@
+**/auto
+**/.mypy_cache
+**/__pycache__
+**/flycheck_*.py
+**/.ipynb_checkpoints
+*.py~
+*.log
+*.aux
+data
+m2_conversion.py
+json_to_m2.py
+invert_m2.py
