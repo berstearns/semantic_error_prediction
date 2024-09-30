@@ -10,7 +10,7 @@ FORTHCOMING
 
 
 
-The majority of code was written by David Strohmaier, with some files provided by Chris Bryant and modified by David Strohmaier, which is indicated by the top line.-
+The majority of code was written by David Strohmaier, with some files provided by Chris Bryant and modified by David Strohmaier, which is indicated by the top line of those files.
 
 
 A further repository which allows the training of the models will be made available at a later time.
@@ -38,3 +38,9 @@ The source of the errors and corrections is the 2019 BEA shared task for Grammat
 Due to licensing restrictions, we do not provide the data files themselves directly. They are, however, publicly available at the following URLs:
 - https://www.cl.cam.ac.uk/research/nl/bea2019st/#data BEA shared task data
 - https://osf.io/kz2px/ AoA data used for regression model
+
+
+## Hyperparameter Space of Probes
+
+The folder "probe_kwargs" contains the hyperparameter search space and the best hyperparameters
+for each probe.

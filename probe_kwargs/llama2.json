@@ -1,0 +1,9 @@
+{
+  "label_kinds": [
+    "false",
+    "true"
+  ],
+  "lr": 1e-05,
+  "batch_size": 640,
+  "epochs": 40
+}
