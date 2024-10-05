@@ -7,6 +7,3 @@
 *.log
 *.aux
 data
-m2_conversion.py
-json_to_m2.py
-invert_m2.py
